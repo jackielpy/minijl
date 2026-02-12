@@ -1,2 +1,2 @@
 # minijl
-A new test project
+A new test project.  
